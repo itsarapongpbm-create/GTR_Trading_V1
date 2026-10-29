@@ -1,0 +1,12 @@
+{
+  "latest_version": "1.0.1",
+  "release_date": "2026-10-29",
+  "release_name": "GTR Tactical System v1.0.1 Official Release",
+  "changelog": [
+    "✅ แก้ไขระบบออกออเดอร์อัตโนมัติ 100% (Autonomous Execution)",
+    "✅ เพิ่มระบบ 1-Click Auto-Updater อัปเดตเวอร์ชันใหม่อัตโนมัติผ่าน GitHub",
+    "✅ ซิงค์การเปิดใช้งาน 7 กลยุทธ์หลักพร้อมเทรด",
+    "✅ ปรับปรุงระบบแจ้งเตือนการเชื่อมต่อ MT5"
+  ],
+  "download_url": "https://github.com/itsarapongpbm-create/GTR_Trading_V1/releases/download/v1.0.1/GTR_Tactical_Terminal.exe"
+}
